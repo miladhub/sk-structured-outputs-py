@@ -1,6 +1,6 @@
 # Structured output example with Semantic Kernel (Python)
 
-Copy pasted from https://github.com/microsoft/semantic-kernel/blob/a76229bfc2058028381a56ebe35bf73c507e1e2a/python/samples/concepts/structured_output/json_structured_output.py.
+Copy pasted from <https://github.com/microsoft/semantic-kernel/blob/main/python/samples/concepts/structured_output/json_structured_output.py>.
 
 ```bash
 python -m venv ENV
@@ -11,3 +11,4 @@ export OPENAI_API_KEY=...
 python stroutputs.py
 ```
 
+See <https://devblogs.microsoft.com/semantic-kernel/using-json-schema-for-structured-output-in-python-for-openai-models/>.
